@@ -1,3 +1,5 @@
+docker pull shieldsio/shields
+
 # Indicium Tech Code Challenge
 # Data Pipeline
 
@@ -90,6 +92,3 @@ To run the data pipeline locally using Docker and Apache Airflow, follow these s
 
 13. The pipeline is now configured to run according to the schedule defined in the DAG.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
